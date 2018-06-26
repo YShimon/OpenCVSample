@@ -1,0 +1,11 @@
+# コミット対象外ファイルリスト
+
+# Visual Studio関連ファイル
+.vs/
+*.db
+*.opendb
+
+# Build results
+[Dd]ebug/
+
+
